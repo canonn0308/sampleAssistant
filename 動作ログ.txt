@@ -1,0 +1,122 @@
+10-30 01:59:23.421 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@5ef8d04#performCreate ID:main/2 pID:12350
+10-30 01:59:27.318 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@239a28a#doHide ID:main/2 pID:10507
+10-30 01:59:28.877 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@5ef8d04#onClick ID:main/2 pID:12350
+10-30 01:59:28.914 10507 10507 E VoiceAssistantHMI: SleepStart
+10-30 01:59:28.914 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@5ef8d04#onClick ID:main/2 pID:12350
+10-30 01:59:33.914 10507 10507 E VoiceAssistantHMI: SleepEnd
+10-30 01:59:33.916 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@239a28a#doShow ID:main/2 pID:10507
+10-30 01:59:38.046 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@239a28a#doHide ID:main/2 pID:10507
+10-30 01:59:56.155 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@5c17b43#performCreate ID:main/2 pID:12350
+10-30 02:00:00.473  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@2165a22#onShutdownInternal ID:main/2 pID:8421
+10-30 02:00:02.088  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@ec38270#handleCreateService ID:main/2 pID:8421
+10-30 02:00:02.088  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@ec38270#handleBindService ID:main/2 pID:8421
+10-30 02:00:02.098  8421  8421 E VoiceAssistantHMI: class com.example.sampleassistant.SampleAssistantService#onReady
+10-30 02:00:50.590  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@ec38270#onShutdownInternal ID:main/2 pID:8421
+10-30 02:00:54.192  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@963f66e#handleCreateService ID:main/2 pID:8421
+10-30 02:00:54.192  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@963f66e#handleBindService ID:main/2 pID:8421
+10-30 02:00:54.200  8421  8421 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@963f66e#accept ID:main/2 pID:8421
+10-30 02:01:21.023 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doNewSession ID:main/2 pID:10507
+10-30 02:01:21.024 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#onNewSession ID:main/2 pID:10507
+10-30 02:01:21.037 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doShow ID:main/2 pID:10507
+10-30 02:01:39.749 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doHide ID:main/2 pID:10507
+10-30 02:01:42.937 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doShow ID:main/2 pID:10507
+10-30 02:01:44.052 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doHide ID:main/2 pID:10507
+10-30 02:01:45.689 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@7978ac3#performCreate ID:main/2 pID:12350
+10-30 02:01:46.745 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@7978ac3#onClick ID:main/2 pID:12350
+10-30 02:01:46.787 12350 12350 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@7978ac3#onClick ID:main/2 pID:12350
+10-30 02:01:46.787 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doShow ID:main/2 pID:10507
+10-30 02:01:52.052 10507 10507 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@636b68c#doHide ID:main/2 pID:10507
+10-30 02:03:29.780 13751 13751 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#performCreate ID:main/2 pID:13751
+10-30 02:03:48.758 13813 13813 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#handleCreateService ID:main/2 pID:13813
+10-30 02:03:48.758 13813 13813 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#handleBindService ID:main/2 pID:13813
+10-30 02:03:48.763 13813 13813 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#accept ID:main/2 pID:13813
+10-30 02:03:52.828 13843 13843 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doNewSession ID:main/2 pID:13843
+10-30 02:03:52.828 13843 13843 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#onNewSession ID:main/2 pID:13843
+10-30 02:03:52.849 13843 13843 E VoiceAssistantHMI: Session#onShow
+10-30 02:03:52.849 13843 13843 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doShow ID:main/2 pID:13843
+10-30 02:29:16.301 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#performCreate ID:main/2 pID:15770
+10-30 02:29:20.597 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:20.649 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:28.329 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#handleCreateService ID:main/2 pID:16135
+10-30 02:29:28.329 16135 16135 E VoiceAssistantHMI: BootService
+10-30 02:29:28.331  1756  3423 W ActivityManager: Unable to start service Intent { act=com.example.sampleservice/.SampleService cmp=com.example.sampleservice/.SampleService } U=0: not found
+10-30 02:29:28.331 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#handleBindService ID:main/2 pID:16135
+10-30 02:29:28.335 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#accept ID:main/2 pID:16135
+10-30 02:29:30.080 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:30.120 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:30.298 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doNewSession ID:main/2 pID:16173
+10-30 02:29:30.298 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#onNewSession ID:main/2 pID:16173
+10-30 02:29:30.323 16173 16173 E VoiceAssistantHMI: Session#onShow
+10-30 02:29:30.324 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doShow ID:main/2 pID:16173
+10-30 02:29:41.073 16173 16173 E VoiceAssistantHMI: Session#onHide
+10-30 02:29:41.073 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doHide ID:main/2 pID:16173
+10-30 02:29:42.511 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:42.551 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:42.551 16173 16173 E VoiceAssistantHMI: Session#onShow
+10-30 02:29:42.551 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doShow ID:main/2 pID:16173
+10-30 02:29:43.894 16173 16173 E VoiceAssistantHMI: Session#onHide
+10-30 02:29:43.894 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doHide ID:main/2 pID:16173
+10-30 02:29:48.181 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:48.227 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:29:48.227 16173 16173 E VoiceAssistantHMI: Session#onShow
+10-30 02:29:48.227 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doShow ID:main/2 pID:16173
+10-30 02:29:49.313 16173 16173 E VoiceAssistantHMI: Session#onHide
+10-30 02:29:49.314 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doHide ID:main/2 pID:16173
+10-30 02:30:03.667 16299 16299 E BootServiceApp: BootService
+10-30 02:30:03.668  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.example.sampleservice/.SampleService and for client com.example.bootserviceapp
+10-30 02:30:03.668  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.example.sampleservice/.SampleServiceare :1
+10-30 02:30:03.678  1756  1873 I ActivityManager: Start proc 16338:com.example.sampleservice/u0a467 for service {com.example.sampleservice/com.example.sampleservice.SampleService}
+10-30 02:30:03.708  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.example.sampleservice/.SampleService
+10-30 02:30:03.876 16338 16338 E SampleService: Constructor
+10-30 02:30:03.876 16338 16338 E SampleService: onCreate
+10-30 02:30:03.877 16338 16338 E SampleService: onBind
+10-30 02:30:03.878 16299 16299 E BootServiceApp: onServiceConnected
+10-30 02:30:03.878 16338 16351 E SampleService: Connect Success
+10-30 02:31:04.985 16299 16299 E BootServiceApp: BootService
+10-30 02:31:04.986  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.example.sampleservice/.SampleService and for client com.example.bootserviceapp
+10-30 02:31:04.986  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.example.sampleservice/.SampleServiceare :1
+10-30 02:31:29.300  1044 13505 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.example.sampleservice/.SampleService
+10-30 02:31:29.301 16338 16338 E SampleService: onDestroy
+10-30 02:31:34.239 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:31:34.288 15770 15770 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#onClick ID:main/2 pID:15770
+10-30 02:31:34.288 16173 16173 E VoiceAssistantHMI: Session#onShow
+10-30 02:31:34.289 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doShow ID:main/2 pID:16173
+10-30 02:31:47.736 16173 16173 E VoiceAssistantHMI: Session#onHide
+10-30 02:31:47.736 16173 16173 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantSessionService@39e1bca#doHide ID:main/2 pID:16173
+10-30 02:32:10.689 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#onShutdownInternal ID:main/2 pID:16135
+10-30 02:32:13.174 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@3d825b1#handleCreateService ID:main/2 pID:16135
+10-30 02:32:13.174 16135 16135 E VoiceAssistantHMI: BootService
+10-30 02:32:13.179  1756  5886 W ActivityManager: Unable to start service Intent { act=com.example.sampleservice/.SampleService cmp=com.example.sampleservice/.SampleService } U=0: not found
+10-30 02:32:13.180 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@3d825b1#handleBindService ID:main/2 pID:16135
+10-30 02:32:13.183 16135 16135 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@3d825b1#accept ID:main/2 pID:16135
+10-30 02:33:53.929 16677 16677 E VoiceAssistantHMI: com.example.sampleassistant.MainActivity@66a2a96#performCreate ID:main/2 pID:16677
+10-30 02:33:59.484 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#handleCreateService ID:main/2 pID:16972
+10-30 02:33:59.484 16972 16972 E VoiceAssistantHMI: BootService
+10-30 02:33:59.485  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.example.sampleservice/.SampleService and for client com.example.sampleassistant:interactor
+10-30 02:33:59.485  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.example.sampleservice/.SampleServiceare :1
+10-30 02:33:59.488  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.example.sampleservice/.SampleService
+10-30 02:33:59.488 16338 16338 E SampleService: Constructor
+10-30 02:33:59.488 16338 16338 E SampleService: onCreate
+10-30 02:33:59.488 16338 16338 E SampleService: onBind
+10-30 02:33:59.490 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#handleBindService ID:main/2 pID:16972
+10-30 02:33:59.490 16972 16972 E VoiceAssistantHMI: onServiceConnected
+10-30 02:33:59.491 16338 16433 E SampleService: Connect Success
+10-30 02:33:59.496 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#accept ID:main/2 pID:16972
+10-30 02:36:59.275  1044  1136 I vendor.qti.hardware.servicetracker@1.2-service: destroyService is called for service : com.example.sampleservice/.SampleService
+10-30 02:36:59.276 16972 16972 E VoiceAssistantHMI: onServiceDisconnected
+10-30 02:37:06.791 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@e550b35#onShutdownInternal ID:main/2 pID:16972
+10-30 02:37:06.799  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: unbindService is called for service : com.example.sampleservice/.SampleService and for client com.example.sampleassistant:interactor
+10-30 02:37:06.799  1044 24632 I vendor.qti.hardware.servicetracker@1.2-service: unbind service com.example.sampleservice/.SampleServicenot found
+10-30 02:37:12.666 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@a320617#handleCreateService ID:main/2 pID:16972
+10-30 02:37:12.666 16972 16972 E VoiceAssistantHMI: BootService
+10-30 02:37:12.668  1044  1136 I vendor.qti.hardware.servicetracker@1.2-service: bindService is called for service : com.example.sampleservice/.SampleService and for client com.example.sampleassistant:interactor
+10-30 02:37:12.668  1044  1136 I vendor.qti.hardware.servicetracker@1.2-service: total connections for service : com.example.sampleservice/.SampleServiceare :1
+10-30 02:37:12.672 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@a320617#handleBindService ID:main/2 pID:16972
+10-30 02:37:12.679  1756  1873 I ActivityManager: Start proc 17236:com.example.sampleservice/u0a467 for service {com.example.sampleservice/com.example.sampleservice.SampleService}
+10-30 02:37:12.690 16972 16972 E VoiceAssistantHMI: com.example.sampleassistant.SampleAssistantService@a320617#accept ID:main/2 pID:16972
+10-30 02:37:12.728  1044  1136 I vendor.qti.hardware.servicetracker@1.2-service: startService() is called for servicecom.example.sampleservice/.SampleService
+10-30 02:37:12.891 17236 17236 E SampleService: Constructor
+10-30 02:37:12.891 17236 17236 E SampleService: onCreate / pID:17236 ThrID:2
+10-30 02:37:12.891 17236 17236 E SampleService: onBind / pID:17236 ThrID:2
+10-30 02:37:12.893 16972 16972 E VoiceAssistantHMI: onServiceConnected
+10-30 02:37:12.894 17236 17251 E SampleService: Connect Success pID:17236 ThrID:852

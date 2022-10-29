@@ -1,2 +1,3 @@
 rootProject.name = "SampleAssistant"
 include ':app'
+include ':aidllib'

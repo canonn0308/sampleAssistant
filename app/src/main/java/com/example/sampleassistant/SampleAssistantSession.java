@@ -9,19 +9,32 @@ import android.view.View;
 
 import java.util.zip.Inflater;
 
+import static com.example.sampleassistant.Utility.LOG_TAG;
+import static com.example.sampleassistant.Utility.getExecutor;
+
 public class SampleAssistantSession extends VoiceInteractionSession {
     private View mVoicePlate = null;
 
     @Override
     public void onShow(Bundle args, int showFlags) {
+//        try {
+//            Log.e(LOG_TAG, "SleepStart");
+//            Thread.sleep(5000);
+//            Log.e(LOG_TAG, "SleepEnd");
+//        } catch (InterruptedException e) {
+//            Log.e(LOG_TAG, "###"+e.getMessage());
+//        }
+
         mVoicePlate.setVisibility(View.VISIBLE);
-        Log.e("TAKAKI2", "Creating " + this + "#onShow");
+        Log.e(LOG_TAG, "Session#onShow");
+        Log.e(LOG_TAG, getExecutor(getContext(), new Object(){}));
     }
 
     @Override
     public void onHide() {
         mVoicePlate.setVisibility(View.INVISIBLE);
-        Log.e("TAKAKI2", "Creating " + this + "#onHide");
+        Log.e(LOG_TAG, "Session#onHide");
+        Log.e(LOG_TAG, getExecutor(getContext(),new Object(){}));
 
     }
 
@@ -33,6 +46,6 @@ public class SampleAssistantSession extends VoiceInteractionSession {
 
     public SampleAssistantSession(Context context) {
         super(context);
-        Log.e("TAKAKI2", "Creating " + this + "#SampleAssistantSession");
+        Log.e(LOG_TAG, getExecutor(getContext(),new Object(){}));
     }
 }

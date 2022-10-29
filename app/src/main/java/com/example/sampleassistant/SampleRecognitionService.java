@@ -8,11 +8,14 @@ import android.util.Log;
 
 import androidx.annotation.Nullable;
 
+import static com.example.sampleassistant.Utility.LOG_TAG;
+import static com.example.sampleassistant.Utility.getExecutor;
+
 public class SampleRecognitionService extends RecognitionService {
 
     @Override
     protected void onStartListening(Intent recognizerIntent, Callback listener) {
-        Log.e("TAKAKI2", "Creating " + this + "#onStartListening");
+        Log.e(LOG_TAG, getExecutor(this,new Object(){}));
     }
 
     @Override
@@ -22,11 +25,11 @@ public class SampleRecognitionService extends RecognitionService {
 
     @Override
     protected void onCancel(Callback listener) {
-        Log.e("TAKAKI2", "Creating " + this + "#onCancel");
+        Log.e(LOG_TAG, getExecutor(this, new Object(){}));
     }
 
     @Override
     protected void onStopListening(Callback listener) {
-        Log.e("TAKAKI2", "Creating " + this + "#onStopListening");
+        Log.e(LOG_TAG, getExecutor(this, new Object(){}));
     }
 }
